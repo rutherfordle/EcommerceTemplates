@@ -1,0 +1,2 @@
+# StoreTemplates
+Store Templates
